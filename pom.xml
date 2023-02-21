@@ -10,7 +10,7 @@
 	<properties>
 		<java-version>1.8</java-version>
 		<jackson.version>1.9.13</jackson.version>
-	        <sonar.host.url>http://172.31.46.59:9000/</sonar.host.url>
+	        <sonar.host.url>http://13.126.53.90:9000/projects/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>chinnu18</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
